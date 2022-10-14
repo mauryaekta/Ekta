@@ -6,3 +6,7 @@ Skills: MongoBD, Express, Angular, Node.js (MEAN stack)
 
 - 🔭 I’m currently working on Loopbots Technology  
 - 🌱 I’m currently learning MongoDB, node.js Angular, Express 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mauryaekta)  
+
