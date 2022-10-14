@@ -1,4 +1,4 @@
-### Hi there 👋, Ekta
+# Ekta Maurya
 #### Web developer 
 I'm Ekta Maurya Form Surat, Gujarat. I have Completed Graduation in BAC from VNSGU. I really Enjoy Learning Language and Framework Node.js Angular.
 
