@@ -7,6 +7,8 @@ I'm Ekta Maurya Form Surat, Gujarat. I have Completed Graduation in BAC from VNS
 * 🚇 Express
 * ♻ Node.js
 * 🔯 React
+* :large_blue_diamond: sequelize
+* :large_blue_diamond: MySql
 
 - 🔭 I’m currently working in Sattvam soft Company 
 - 🌱 I’m currently learning MongoDB, node.js Angular, Express, React, aws service 
