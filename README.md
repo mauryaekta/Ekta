@@ -1,5 +1,5 @@
 # Ekta Maurya
-I'm Ekta Maurya Form Surat, Gujarat. I have Completed Graduation in BAC from VNSGU.I'm A Web Developer. I really Enjoy Learning Language and Framework. I'm currently working as MERN stuck developer.
+Hi, I'm Ekta Maurya from Surat, Gujarat. I'm a web developer with a focus on the MERN stack. I enjoy the art of coding and continuous learning. Let's create something amazing together! 🚀
 
 ## Skills And Experience 
 * 🅰 Angular
